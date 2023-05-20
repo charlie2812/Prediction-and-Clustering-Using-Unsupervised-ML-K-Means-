@@ -48,13 +48,13 @@ The dataset consists of 150 samples, with 50 samples for each Iris species. Each
 
 The project requires the following dependencies:
 
-- Python (version X.X.X)
-- NumPy (version X.X.X)
-- Pandas (version X.X.X)
-- Matplotlib (version X.X.X)
-- Seaborn (version X.X.X)
-- Scikit-learn (version X.X.X)
-- SciPy (version X.X.X)
+- Python 
+- NumPy 
+- Pandas 
+- Matplotlib 
+- Seaborn 
+- Scikit-learn 
+- SciPy 
 
 ## Usage
 
